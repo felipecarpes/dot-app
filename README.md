@@ -13,11 +13,6 @@ A small project using reactjs.
 
 This was built with React.
 
-## ✅ View Site Uptime
-
-Head over to the [**status website →**](https://spencerlepine.github.io/portfolio-site-uptime) powered by [Upptime](https://github.com/spencerlepine/portfolio-site-uptime)
-
-
 ## ⚙️ Development Setup
 ```sh
 $ git clone https://github.com/felipecarpes/dot-app.git
